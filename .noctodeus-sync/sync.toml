@@ -1,5 +1,9 @@
-cores = []
-
 [sync]
 version = 1
 created_at = "2026-04-07T21:43:17.196678+00:00"
+
+[[cores]]
+id = "3cfb2845-2114-4e1c-8e17-139cd9612948"
+name = "noctodeus-testing"
+path = "noctodeus-testing"
+added_at = "2026-04-07T21:43:23.138334+00:00"
