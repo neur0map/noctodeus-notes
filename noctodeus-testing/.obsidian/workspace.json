@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "7b8eb543b5fb5b5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "85fbc1b9ba75ad48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f7bbd7e897d78fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reference/algorithms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "algorithms"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9653db4e956d734a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f50f54090c5250cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b67c8d4c25e37c78",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5761569187291a9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "909e4342623187be",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "719f93292675273a",
+    "type": "split",
+    "children": [
+      {
+        "id": "584bc4733f1b214b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "165cb8a9ad7fc775",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "reference/algorithms.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for algorithms"
+            }
+          },
+          {
+            "id": "796d9e61d0a8413c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "reference/algorithms.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from algorithms"
+            }
+          },
+          {
+            "id": "a0831ce053e29483",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9e1be30f33cc3267",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c1efff61c850f947",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "reference/algorithms.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of algorithms"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "4f7bbd7e897d78fa",
+  "lastOpenFiles": [
+    "journal/2026-05-07.md",
+    "test-code-blocks.md",
+    "untitled-20260406-161559.md",
+    "welcome.md",
+    "TODO-imported.md",
+    "untitled-20260406-012957.md",
+    "TODO.md",
+    "logseq/bak/journal/2026-04-05/2026-04-06T03_49_20.211Z.Desktop.md",
+    "logseq/bak/journal/2026-04-06/2026-04-06T03_35_14.689Z.Desktop.md",
+    "logseq/bak/journal/2026-04-06/2026-04-06T03_35_08.402Z.Desktop.md",
+    "logseq/bak/journal/2026-04-06",
+    "journal/2026-04-06.md",
+    "untitled-20260405-233407.md",
+    "untitled-20260405-233406.md",
+    "untitled-20260405-233405.md",
+    "logseq/bak/journal/2026-04-05/2026-04-06T03_27_20.503Z.Desktop.md",
+    "logseq/bak/journal/2026-04-05",
+    "logseq/bak/journal",
+    "feature-showcase.md",
+    "feature-showcased.md",
+    "logseq/bak/reference/markdown-cheatsheet/2026-04-06T01_23_00.503Z.Desktop.md",
+    "logseq/bak/welcome/2026-04-06T00_25_28.123Z.Desktop.md",
+    "logseq/bak/feature-showcase/2026-04-06T00_19_24.038Z.Desktop.md",
+    "logseq/bak/feature-showcase/2026-04-06T00_19_19.770Z.Desktop.md",
+    "logseq/bak/feature-showcase/2026-04-06T00_16_28.232Z.Desktop.md",
+    "logseq/bak/feature-showcase/2026-04-06T00_16_18.573Z.Desktop.md",
+    "logseq/bak/reference/markdown-cheatsheet/2026-04-06T00_00_13.806Z.Desktop.md",
+    "reference/markdown-cheatsheet.md",
+    "logseq/bak/reference/keyboard-shortcuts/2026-04-05T23_56_35.974Z.Desktop.md",
+    "logseq/bak/reference/keyboard-shortcuts",
+    "logseq/bak/reference/markdown-cheatsheet"
+  ]
+}

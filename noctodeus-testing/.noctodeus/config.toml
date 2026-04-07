@@ -1,0 +1,10 @@
+[core]
+name = "noctodeus-testing"
+id = "3cfb2845-2114-4e1c-8e17-139cd9612948"
+created_at = "2026-04-04T04:37:13.857198+00:00"
+version = 1
+
+[logging]
+level = "info"
+max_file_size = 5242880
+max_rotations = 3
