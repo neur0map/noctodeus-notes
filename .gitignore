@@ -1,0 +1,6 @@
+# Noctodeus — machine-specific artifacts
+**/.noctodeus/meta.db
+**/.noctodeus/meta.db-wal
+**/.noctodeus/meta.db-shm
+**/.noctodeus/logs/
+**/.noctodeus/cache/
