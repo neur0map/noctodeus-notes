@@ -1,6 +1,6 @@
 ---
 title: Noctodeus Roadmap
-tags: [project, planning]
+tags: [planning, Planning]
 status: active
 priority: high
 ---
