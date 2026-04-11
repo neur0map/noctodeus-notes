@@ -1,17 +1,20 @@
 ---
 title: Feature Showcase
-tags: [demo, features]
+tags: [text-formatting, wiki-links-backlinks, task-lists, code-blocks, tables, graph-view, markdown-features]
 status: active
 ---
+
+***
+
 # Feature Showcase
 
 Every Noctodeus editor feature demonstrated in one note.
 
-## Text ==Formatting==
+## Text Formatting
 
-**Bold text**, *italic text*, ~~strikethrough~~, <u>underline</u>, `inline code`, ==highlighted text==.
+**Bold text**, *italic text*, ~~strikethrough~~, underline, `inline code`, highlighted text.
 
-Subscript: H~2~O is water. Superscript: E = mc^2^.
+Subscript: H~~2~~O is water. Superscript: E = mc^2^.
 
 ## Wiki Links & Backlinks
 
@@ -21,12 +24,12 @@ The graph view and backlinks panel will show connections between these notes.
 
 ## Task Lists
 
-- [x] Set up Noctodeus core
-- [x] Create example notes
-- [ ] Explore the graph view
-- [ ] Try the slash command menu
-- [ ] Pin your favorite notes
-- [ ] Customize settings
+* [x] Set up Noctodeus core
+* [x] Create example notes
+* [ ] Explore the graph view
+* [ ] Try the slash command menu
+* [ ] Pin your favorite notes
+* [ ] Customize settings
 
 ## Code Blocks
 
@@ -56,21 +59,19 @@ fn main() {
 
 ## Tables
 
-| Feature | Status | Priority |
-| --- | --- | --- |
-| Wiki Links | Done | High |
-| Graph View | Done | High |
-| Tables | Done | Medium |
-| Find & Replace | Done | Medium |
-| LaTeX Math | Done | Low |
-| Spaced Repetition | Planned | Medium |
+| Feature           | Status  | Priority |
+| ----------------- | ------- | -------- |
+| Wiki Links        | Done    | High     |
+| Graph View        | Done    | High     |
+| Tables            | Done    | Medium   |
+| Find & Replace    | Done    | Medium   |
+| LaTeX Math        | Done    | Low      |
+| Spaced Repetition | Planned | Medium   |
 
 ## Blockquotes
 
-> The best way to predict the future is to invent it.
-> 
+> The best way to predict the future is to invent it.\
 > — Alan Kay
-> 
 
 ## Mathematics
 
@@ -84,7 +85,7 @@ x=−b±b2−4ac2ax = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} x=2a−b±b2−4ac​�
 
 Content above the divider.
 
----
+***
 
 Content below the divider.
 
@@ -92,16 +93,21 @@ Content below the divider.
 
 1. First level
 
-- Second level bullet
-- Another second level
+* Second level bullet
+
+* Another second level
 
 1. Third level numbered
+
 2. More third level
+
 3. Back to first level
 
-- [x] A nested task
-- [x] A completed nested task
+* [x] A nested task
+* [x] A completed nested task
 
 ## Smart Typography
 
-These get auto-corrected as you type: "smart quotes", an em-dash--like this, and an ellipsis…
+These get auto-corrected as you type: "smart quotes", an em-dash--like this, and an ellipsis
+
+[[testing]]

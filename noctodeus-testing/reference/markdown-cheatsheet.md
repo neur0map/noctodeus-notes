@@ -2,6 +2,7 @@
 title: Markdown Cheatsheet
 tags: [reference]
 ---
+
 # Markdown Cheatsheet
 
 Quick reference for all supported markdown syntax.
@@ -16,32 +17,34 @@ Quick reference for all supported markdown syntax.
 
 ## Emphasis
 
-| Syntax | Result |
-| --- | --- |
-| `**bold**` | **bold** |
-| `*italic*` | *italic* |
-| `~~strike~~` | ~~strike~~ |
-| `code` | `code` |
-| `==highlight==` | ==highlight== |
-| `H~2~O` | H~2~O |
-| `x^2^` | x^2^ |
+| Syntax                   | Result     |
+| ------------------------ | ---------- |
+| `**bold**`               | **bold**   |
+| `*italic*`               | *italic*   |
+| `~~strike~~`             | ~~strike~~ |
+| `code`                   | `code`     |
+| `<mark>highlight</mark>` | highlight  |
+| `H~2~O`                  | H~~2~~O    |
+| `x^2^`                   | x^2^       |
 
 ## Links
 
-- Standard: `[text](url)`
-- Wiki: `[[note-name]]`
-- Auto-linked URLs: [https://noctodeus.app](https://noctodeus.app)
+* Standard: `[text](url)`
+
+* Wiki: [[note-name]]
+
+* Auto-linked URLs: <https://noctodeus.app>
 
 ## Images
 
-```
+```text
 ![alt text](path/to/image.png)
 ![alt text](path/to/image.png)
 ```
 
 ## Lists
 
-```
+```text
 - Bullet item
 1. Numbered item
 - [ ] Task (unchecked)
@@ -56,7 +59,7 @@ Block: triple backticks with optional language.
 
 ## Tables
 
-```
+```text
 | Column | Column |
 | --- | --- |
 | Cell | Cell |
@@ -64,7 +67,12 @@ Block: triple backticks with optional language.
 
 ## Other
 
-- `---` for horizontal rule
-- `> text` for blockquote
-- `[[note]]` for wiki link
-- `/` for slash commands
+* `---` for horizontal rule
+
+* `> text` for blockquote
+
+* [[note]] for wiki link
+
+* `/` for slash commands
+
+[[TODO-imported]]

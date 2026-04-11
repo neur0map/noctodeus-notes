@@ -2,58 +2,57 @@
 
 ## Current Stack (can build now with what we have)
 
-- [ ] Version history / file recovery (automatic snapshots, restore previous versions)
-- [ ] Quick capture (global hotkey to capture a thought without opening the full app)
-- [ ] Queryable database views (filter, sort, group notes by metadata — table/kanban/calendar)
-- [ ] Task management across vault (inline tasks with due dates, filtered/queried, kanban view)
+* [ ] Version history / file recovery (automatic snapshots, restore previous versions)
+* [ ] Quick capture (global hotkey to capture a thought without opening the full app)
+* [ ] Queryable database views (filter, sort, group notes by metadata — table/kanban/calendar)
+* [ ] Task management across vault (inline tasks with due dates, filtered/queried, kanban view)
 
 ## Needs 3rd Party Libraries or Plugins
 
-- [ ] Canvas / infinite whiteboard (tldraw or excalidraw integration)
-- [ ] Spaced repetition / flashcards (SM-2 algorithm, review scheduler)
-- [ ] Web clipper (browser extension to capture pages/highlights into vault)
-- [ ] Excalidraw / visual sketching (embedded hand-drawn diagrams)
-- [ ] AI integration — context-aware (semantic search, summarize, Q&A across vault)
-- [ ] Sync across devices (E2E encrypted, conflict resolution)
-- [ ] Spellcheck (research proper implementation for Tauri/WKWebView)
+* [ ] Canvas / infinite whiteboard (tldraw or excalidraw integration)
+* [ ] Spaced repetition / flashcards (SM-2 algorithm, review scheduler)
+* [ ] Web clipper (browser extension to capture pages/highlights into vault)
+* [ ] Excalidraw / visual sketching (embedded hand-drawn diagrams)
+* [x] AI integration — context-aware (semantic search, summarize, Q&A across vault)
+* [ ] Sync across devices (E2E encrypted, conflict resolution)
+* [ ] Spellcheck (research proper implementation for Tauri/WKWebView)
 
 ## Needs Custom Architecture / Major Engineering
 
-- [ ] Block-level references & embeds (stable block IDs, transclusion, live propagation)
-- [ ] Plugin / extension API (sandboxed API for community extensions)
-- [ ] Publish / digital garden (select notes → public website)
-- [ ] Real-time collaboration (CRDT-based multiplayer editing)
-- [ ] Formulas / computed properties (expression evaluator for metadata fields)
+* [ ] Block-level references & embeds (stable block IDs, transclusion, live propagation)
+* [ ] Plugin / extension API (sandboxed API for community extensions)
+* [ ] Publish / digital garden (select notes → public website)
+* [ ] Real-time collaboration (CRDT-based multiplayer editing)
+* [ ] Formulas / computed properties (expression evaluator for metadata fields)
 
 ## Completed
 
-- [x] Inline title editing above editor
-- [x] Find/Replace in editor (Cmd+F / Ctrl+F)
-- [x] UI rework — Phase 0-7 (Tailwind v4, shadcn-svelte, minimal dark, Lucide icons)
-- [x] anime.js v4 animations (staggered entries, view transitions, panel/modal animations)
-- [x] Unified pinned files store
-- [x] Star icon pin/unpin in file tree
-- [x] Full-text content search (FTS5)
-- [x] Export (Markdown, HTML, CSV with media toggle)
-- [x] Settings modal with functional toggles
-- [x] Cross-platform keyboard shortcuts (Cmd/Ctrl)
-- [x] Cross-platform path normalization
-- [x] AGPLv3 license
-- [x] TipTap extensions (tables, highlight, sub/sup, underline, text align, typography, color, character count, focus)
-- [x] Math rendering (KaTeX via @vscode/markdown-it-katex)
-- [x] Core switcher dropdown (multiple vaults, switch/open/create)
-- [x] Lucide icon library (replaced all Unicode and inline SVG icons)
-- [x] Bubble toolbar (bold, italic, underline, strike, highlight, code, link + block type picker)
-- [x] Search content inside files (FTS5 with snippet highlights)
-- [x] Light theme (Dark / Light / System toggle in settings)
-- [x] Note details panel (word count, chars, reading time, modified date in right panel)
-- [x] Edit/View mode toggle (rendered markdown preview with eye icon)
-- [x] Syntax highlighting for code blocks (atom-one-dark theme)
-- [x] Task extraction modal (scan all files, grouped by file, filter All/Todo/Done)
-- [x] Daily notes with calendar widget (month grid, today highlight, note dots, auto-create)
-- [x] Keyboard navigation (Ctrl+Tab zone cycling, arrow keys in file tree, Escape to editor)
-- [x] Properties panel (collapsible YAML frontmatter editor with typed fields)
-- [x] Aliases (frontmatter aliases resolve wiki-links, shown in suggest dropdown)
-- [x] Unlinked mentions detection (scan for title/alias text, one-click convert to wiki link)
-- [x] Import files and folders into core
-- [x] Custom appearance (accent color picker, font overrides, editor width, custom CSS injection)
+* [x] UI rework — Phase 0-7 (Tailwind v4, shadcn-svelte, minimal dark, Lucide icons)
+* [x] Find/Replace in editor (Cmd+F / Ctrl+F)
+* [x] Inline title editing above editor
+* [x] anime.js v4 animations (staggered entries, view transitions, panel/modal animations)
+* [x] Unified pinned files store
+* [x] Star icon pin/unpin in file tree
+* [x] Full-text content search (FTS5)
+* [x] Export (Markdown, HTML, CSV with media toggle)
+* [x] Settings modal with functional toggles
+* [x] Cross-platform keyboard shortcuts (Cmd/Ctrl)
+* [x] Cross-platform path normalization
+* [x] AGPLv3 license
+* [x] TipTap extensions (tables, highlight, sub/sup, underline, text align, typography, color, character count, focus)
+* [x] Math rendering (KaTeX via @vscode/markdown-it-katex)
+* [x] Core switcher dropdown (multiple vaults, switch/open/create)
+* [x] Lucide icon library (replaced all Unicode and inline SVG icons)
+* [x] Bubble toolbar (bold, italic, underline, strike, highlight, code, link + block type picker)
+* [x] Search content inside files (FTS5 with snippet highlights)
+* [x] Light theme (Dark / Light / System toggle in settings)
+* [x] Note details panel (word count, chars, reading time, modified date in right panel)
+* [x] Edit/View mode toggle (rendered markdown preview with eye icon)
+* [x] Syntax highlighting for code blocks (atom-one-dark theme)
+* [x] Task extraction modal (scan all files, grouped by file, filter All/Todo/Done)
+* [x] Daily notes with calendar widget (month grid, today highlight, note dots, auto-create)
+* [x] Keyboard navigation (Ctrl+Tab zone cycling, arrow keys in file tree, Escape to editor)
+* [x] Import files and folders into core
+* [x] Properties panel (collapsible YAML frontmatter editor with typed fields)
+* [x] Aliases (frontmatter aliases resolve wiki-links, shown in suggest dropdown)
+* [x] Unlinked mentions detection (scan for title/alias text, one-click convert to wiki link)
