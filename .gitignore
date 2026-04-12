@@ -1,6 +1,17 @@
-# Noctodeus — machine-specific artifacts
-**/.noctodeus/meta.db
-**/.noctodeus/meta.db-wal
-**/.noctodeus/meta.db-shm
-**/.noctodeus/logs/
-**/.noctodeus/cache/
+# Nodeus — machine-specific artifacts
+**/.nodeus/meta.db
+**/.nodeus/meta.db-wal
+**/.nodeus/meta.db-shm
+**/.nodeus/logs/
+**/.nodeus/cache/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Other app metadata (not ours)
+.obsidian/
+.logseq/
+logseq/
+.trash/
