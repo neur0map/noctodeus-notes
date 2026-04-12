@@ -5,9 +5,9 @@ tags: [guide, getting-started]
 
 # Welcome to Noctodeus
 
-A creative IDE for thought. This core contains example notes that showcase every feature.
+Noctodeus is a distraction‑free creative IDE for capturing, connecting, and refining your ideas. This starter note highlights the core features so you can explore fast.
 
-![BlockNote image](asset://localhost/%2FUsers%2Fneur0map%2FPictures%2FWallpapers%2Fwallhaven-wqv8k7.png =824x)
+![BlockNote image](asset://localhost/%2FUsers%2Fneur0map%2FPictures%2FWallpapers%2Fwallhaven-wqv8k7.png)
 
 ## Quick Start
 
