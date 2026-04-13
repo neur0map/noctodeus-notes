@@ -3,7 +3,7 @@ title: Welcome to Noctodeus
 tags: [guide, getting-started]
 ---
 
-# Welcome to nodes
+# Welcome to nodeus
 
 ![dark-anime.png](media/19d8476e538.png)
 
