@@ -5,6 +5,20 @@
 **/.nodeus/logs/
 **/.nodeus/cache/
 
+# Media files (enable "Sync images & media" in Settings to include)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.svg
+*.webp
+*.pdf
+*.mp3
+*.mp4
+*.mov
+*.zip
+
 # OS junk
 .DS_Store
 Thumbs.db
