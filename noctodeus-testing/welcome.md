@@ -3,11 +3,13 @@ title: Welcome to Noctodeus
 tags: [guide, getting-started]
 ---
 
-# Welcome to Noctodeus
+# Welcome to nodes
+
+![dark-anime.png](media/19d8476e538.png)
 
 Noctodeus is a distraction‑free creative IDE for capturing, connecting, and refining your ideas. This starter note highlights the core features so you can explore fast.
 
-![BlockNote image](asset://localhost/%2FUsers%2Fneur0map%2FPictures%2FWallpapers%2Fwallhaven-wqv8k7.png)
+![BlockNote image](media/19d8476a784.png)
 
 ## Quick Start
 
